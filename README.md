@@ -11,19 +11,19 @@ There's nothing better to code creative and reliable solutions for the web. I am
  - 🪖 Background in the Swiss Army and email marketing
  
  ### My Languages and tools
-<img src="./images/tech-icons/javascript.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/typescript.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/react.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/nodejs.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/sass.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/html5.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/mongodb.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/git.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/github.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/vim.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/express.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/npm.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/nginx.svg" height="40px" style="margin-right: 20px">
-<img src="./images/tech-icons/linux.svg" height="40px" style="margin-right: 20px">
+ <img src="./images/tech-icons/javascript.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/typescript.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/react.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/nodejs.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/sass.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/html5.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/mongodb.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/git.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/github.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/vim.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/express.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/npm.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/nginx.svg" height="40px" style="margin-right: 20px; display: inline-block">
+<img src="./images/tech-icons/linux.svg" height="40px" style="margin-right: 20px; display: inline-block">
 
  
