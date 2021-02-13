@@ -6,7 +6,7 @@
 There's nothing better to code creative and reliable solutions for the web. I am also passionate about design and got some backend skills under my fingertips. 
 
  ### What's going on
- - ⚡ Right now I'm focusing on taking my skills in React and TypeScript to the next levelheight="30" > 
+ - ⚡ Right now I'm focusing on taking my skills in React and TypeScript to the next level
  - 💬 Ask me anything about CLI's, vim and dotfiles
  - 🪖 Background in the Swiss Army and email marketing
  
